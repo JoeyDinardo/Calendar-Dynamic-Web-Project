@@ -1,0 +1,112 @@
+
+button {
+	
+    background-color: white;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-family: 'Aguafina Script'; 
+    font-size:20px;
+    background:none;
+}
+
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.5;
+/* box-shadow: 5px 5px grey; */
+}
+
+
+body{
+	background-image: url("OldPaper.jpeg");
+	
+}
+
+#date{
+	margin-left:auto; 
+    margin-right:auto;
+}
+#back{
+	background-color: None;
+    color: white;
+ 
+  
+    border: none;
+    cursor: pointer;
+   
+}
+#next{
+	background-color: None;
+    color: white;
+  
+  
+    border: none;
+    cursor: pointer;
+   
+}
+#month{
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+	
+}
+#day{
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+	
+}
+
+.tableDiv {
+    margin: auto;
+    width: 80%;
+    border: 3px solid BLACK;
+    padding: 10px;
+}
+td{
+		margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+	padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+}
+#toDoList{
+	width:100%;
+}
+#toDoList th{
+	border: 3px solid BLACK;
+	text-align: left;
+}
+#year{
+	margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+	padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+	
+}
+#textAreas{
+	margin-left:auto; 
+    margin-right:auto;
+    width:100%;
+}
